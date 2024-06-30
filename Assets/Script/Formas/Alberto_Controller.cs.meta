@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f0d807a253a1d1e4e942023e25d6c5de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ground: {instanceID: 0}
+  - jump: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
+  - walk: {instanceID: 0}
+  - spin: {instanceID: 0}
+  - run: {instanceID: 0}
+  - dance1: {instanceID: 0}
+  - dance2: {instanceID: 0}
+  - dance3: {instanceID: 0}
+  - jumpClip4: {instanceID: 0}
+  - playerCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

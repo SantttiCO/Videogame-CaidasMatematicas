@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Pp]ackages/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -70,3 +72,23 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/[REDSEN] Free BGM/
+/[Aa]ssets/Build
+/[Aa]ssets/Casual & Relaxing Game Music/
+/[Aa]ssets/CasualGameBGM05/
+/[Aa]ssets/CasualGameSounds/
+/[Aa]ssets/Download_Materials/
+/[Aa]ssets/Footstep(Snow and Grass)/
+/[Aa]ssets/HDRI/
+/[Aa]ssets/Images & Videos/
+/[Aa]ssets/Materials/
+/[Aa]ssets/Prefab/
+/[Aa]ssets/ShootingSound/
+/[Aa]ssets/SkySeries Freebie/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/Textures/
+/[Aa]ssets/TutorialInfo/
+/[Aa]ssets/Unity.VisualScripting.Generated/
+
+
